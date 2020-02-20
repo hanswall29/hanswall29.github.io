@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Asap&display=swap');
+body{
+    background-color: black;
+    
+}
+.page2{
+    background-image: url(../src/MikaBonkerBonk.gif);
+    
+}
+img.xd{
+    margin: auto;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+div.wow{
+    position: absolute;
+    font-family: 'Asap', sans-serif;
+    font-size:12px;
+    color:whitesmoke;
+    left:50%;
+    top:90%;
+    margin-right:-50%;
+    transform: translate(-50%, -50%);
+}
