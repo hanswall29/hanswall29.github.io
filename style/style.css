@@ -15,7 +15,7 @@ img.xd{
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
-div.wow{
+div.wow {
     position: absolute;
     font-family: 'Asap', sans-serif;
     font-size:12px;
@@ -25,3 +25,36 @@ div.wow{
     margin-right:-50%;
     transform: translate(-50%, -50%);
 }
+
+div.contacts{
+    position: absolute;
+    font-family: 'Asap', sans-serif;
+    font-size:12px;
+    color:whitesmoke;
+}
+div.contacts a{
+    color:whitesmoke;
+}
+div.contacts a:visited{
+    color:whitesmoke;
+}
+
+div.wow a{
+    color:whitesmoke;
+}
+
+div.wow a:visited{
+    color:whitesmoke;
+}
+
+
+p.about{
+    font-size: 16px;
+}
+img.duck{
+    margin-left: 25%;
+    margin-top: 5%;
+    height: 200px;
+}
+
+
